@@ -1,4 +1,4 @@
 # Music-Data-Analysis
-### 소리 데이터 분석. 그래프를 출력한다.
+### 음악 파일의 데이터를 측정합니다.
 
 #### 참고한 글 : https://stormpy.tistory.com/187
